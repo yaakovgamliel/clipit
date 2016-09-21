@@ -1,0 +1,57 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "639068DDF198E8FE1823E8E3AB9033EB50C9E90F" : 9223372036854775807,
+    "A0B11C8A34C12D7B9733761D5A5D3F9804CA5CD1" : 9223372036854775807,
+    "19E11B38092C1E1149CB8C52417217E1F729D91A" : 9223372036854775807,
+    "9315323C19BFD45D6BDD92A5D44E1384CD8AADF0" : 9223372036854775807,
+    "FDBB7EF8FE3AE2908FAB4E875B62ADE5C8C42FDC" : 9223372036854775807,
+    "0D2D8F848B38A456F5E0B68828FBEDE4D9C16B9B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C4BB9948-1CFC-4743-A589-303196A8A727",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "639068DDF198E8FE1823E8E3AB9033EB50C9E90F" : "..\/Hidr",
+    "A0B11C8A34C12D7B9733761D5A5D3F9804CA5CD1" : "..\/EventSource",
+    "19E11B38092C1E1149CB8C52417217E1F729D91A" : "..\/Portfolio",
+    "9315323C19BFD45D6BDD92A5D44E1384CD8AADF0" : "..\/UITelerik",
+    "FDBB7EF8FE3AE2908FAB4E875B62ADE5C8C42FDC" : "..\/android",
+    "0D2D8F848B38A456F5E0B68828FBEDE4D9C16B9B" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Clipit",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Clipit.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:yaakovgamliel\/clipit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0D2D8F848B38A456F5E0B68828FBEDE4D9C16B9B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/seekingalpha\/Portfolio.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "19E11B38092C1E1149CB8C52417217E1F729D91A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yaakovgamliel\/Hidr.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "639068DDF198E8FE1823E8E3AB9033EB50C9E90F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/seekingalpha\/UITelerik.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9315323C19BFD45D6BDD92A5D44E1384CD8AADF0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yaakovgamliel\/EventSource",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A0B11C8A34C12D7B9733761D5A5D3F9804CA5CD1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:seekingalpha\/android.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FDBB7EF8FE3AE2908FAB4E875B62ADE5C8C42FDC"
+    }
+  ]
+}
